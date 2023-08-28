@@ -24,21 +24,19 @@ app.get('*', (req, res) => {
 });
 
 app.post('/api/notes', (req, res) => {
-  console.log(req.body);
-
   const { title, text } = req.body;
 
   if (req.body) {
     const newNote = {
       title,
       text,
-      note_id: uuidv4(),
+      id: uuidv4(),
     };
 
     readAndAppend(newNote, './db/db.json');
     res.json('Note added successfully');
   } else {
-    res.errored('Error in adding note');
+    res.error('Error in adding note');
   }
 });
 
