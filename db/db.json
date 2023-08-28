@@ -1,37 +1,7 @@
 [
     {
-        "title": "This is my first note",
+        "title": "Here is an example note",
         "text": "Here are some details",
         "id": "97f5c5be-4fdf-4e24-afde-d249d0f137f8"
-    },
-    {
-        "title": "This is my first note",
-        "text": "Here are some details",
-        "id": "63e876dd-c679-417b-b0a8-9d2ba94fd247"
-    },
-    {
-        "title": "Note",
-        "text": "Another note",
-        "id": "acadd059-41a3-48df-9357-86d06747a821"
-    },
-    {
-        "title": "Here is a note",
-        "text": "Here's details",
-        "id": "45d03c07-4a1e-46a6-ac66-fe81c20350b8"
-    },
-    {
-        "title": "This will work",
-        "text": "It has to",
-        "id": "2143a734-3bef-45a8-8b8d-ba36df113a97"
-    },
-    {
-        "title": "New note",
-        "text": "Wow",
-        "id": "36d577f0-b3be-4d21-9d00-1061930c3e91"
-    },
-    {
-        "title": "Here's another note",
-        "text": "For you",
-        "id": "55de7454-9473-4c14-8c0e-7c9c9338e4ef"
     }
 ]
