@@ -30,7 +30,15 @@ npm i
 
 ## Usage
 
-Follow this link to open the web application. After clicking the blue "Get Started" button, you will be taken to a screen where you will be able to create a note and save it by clicking on the save button that appears in the top right of the screen. The note should then be saved in the list on the left side.
+Follow [this](https://vast-earth-11586-4135a42128b0.herokuapp.com/) link to open the web application. 
+
+![The landing page for the web application.](./assets/image-1.png)
+
+After clicking the blue "Get Started" button, you will be taken to a screen where you will be able to create a note and save it by clicking on the save button that appears in the top right of the screen. 
+
+![The user can create and save notes here.](./assets/image-2.png)
+
+The note should then be saved in the list on the left side.
 
 ## License
 
